@@ -1,5 +1,12 @@
 ## Hi there 👋
+🎯 Passionate about solving business problems using data.
+## 🧰 Tools & Technologies
 
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
+- **BI Tools**: Power BI  
+- **Databases**: SQLite, MySQL  
+- **Other**: Jupyter, VS Code, GitHub  
 <!--
 **1717p/1717p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎯 Passionate about solving business problems using data.
-## 🧰 Tools & Technologies
 
-- **Languages**: Python, SQL  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
-- **BI Tools**: Power BI  
-- **Databases**: SQLite, MySQL  
-- **Other**: Jupyter, VS Code, GitHub  
