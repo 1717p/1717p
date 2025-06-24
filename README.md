@@ -2,11 +2,13 @@
 🎯 Passionate about solving business problems using data.
 ## 🧰 Tools & Technologies
 
-- **Languages**: Python, SQL  
+- Programming skills: Java, Python 
+-Machine Learning & AI: Supervised/Unsupervised Learning, Artificial Intelligence, Deep Learning (PyTorch, TensorFlow) 
+-Data Analytics: Excel, SQL, Power BI ,Tableau
+-Website And App Development: Html, CSS, Javascript ,React js ,Flutter and dart 
+-Tools & Platforms: Jupyter Notebook, Google Collab, GitHub,VS Code
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
-- **BI Tools**: Power BI  
-- **Databases**: SQLite, MySQL  
-- **Other**: Jupyter, VS Code, GitHub  
+  
 <!--
 **1717p/1717p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
