@@ -3,10 +3,10 @@
 ## 🧰 Tools & Technologies
 
 - Programming skills: Java, Python 
--Machine Learning & AI: Supervised/Unsupervised Learning, Artificial Intelligence, Deep Learning (PyTorch, TensorFlow) 
--Data Analytics: Excel, SQL, Power BI ,Tableau
--Website And App Development: Html, CSS, Javascript ,React js ,Flutter and dart 
--Tools & Platforms: Jupyter Notebook, Google Collab, GitHub,VS Code
+- Machine Learning & AI: Supervised/Unsupervised Learning, Artificial Intelligence, Deep Learning (PyTorch, TensorFlow) 
+- Data Analytics: Excel, SQL, Power BI ,Tableau
+- Website And App Development: Html, CSS, Javascript ,React js ,Flutter and dart 
+- Tools & Platforms: Jupyter Notebook, Google Collab, GitHub,VS Code
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
   
 <!--
