@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎯 Passionate about solving business problems using data.
+## 🧰 Tools & Technologies
+
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
+- **BI Tools**: Power BI  
+- **Databases**: SQLite, MySQL  
+- **Other**: Jupyter, VS Code, GitHub  
